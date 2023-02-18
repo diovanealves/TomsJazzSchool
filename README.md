@@ -7,7 +7,7 @@
 | :sparkles: Nome       | **TOM'S Jazz School**                             |
 | :label: Tecnologias   | React, TailwindCSS                                |
 | :rocket: URL          | https://diovanealves.github.io/TomsJazzSchool/    |
-| :fire: Repositorio    | https://github.com/diovanealves/Tom-s-Jazz-School |
+| :fire: Repositorio    | https://github.com/diovanealves/TomsJazzSchool    |
 
 ![](public/preview.jpg#vitrinedev)
 
